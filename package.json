@@ -1,0 +1,29 @@
+{
+  "name": "ecs-demo",
+  "version": "1.0.0",
+  "description": "Simple NodeJS project for AWS ECS demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainhead/ecs-demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "containers",
+    "aws",
+    "ecs",
+    "elastic-container-service"
+  ],
+  "author": "mrchainhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chainhead/ecs-demo/issues"
+  },
+  "homepage": "https://github.com/chainhead/ecs-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
